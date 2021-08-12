@@ -1,5 +1,5 @@
 # KenKen-puzzle-design-using-MSExcel
-This repository contains details of selected 'Kenken' puzzles designed using MSExcel
+This repository contains details of designing selected 'Kenken' puzzles using MSExcel
 
 ![image](https://user-images.githubusercontent.com/62956111/129147530-dc828015-5c21-41d4-88ee-a00cc03d6534.png)
 
